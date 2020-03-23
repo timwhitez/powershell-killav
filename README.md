@@ -7,3 +7,5 @@ usage:
 Import-module ./killav.ps1
 
 killav
+
+其他用法自行发挥
